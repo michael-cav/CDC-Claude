@@ -1,0 +1,7 @@
+# Charts use a fixed light palette, so the app pins a light theme for consistent contrast.
+[theme]
+base = "light"
+primaryColor = "#0072B2"
+
+[client]
+toolbarMode = "minimal"
